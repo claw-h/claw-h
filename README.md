@@ -38,6 +38,6 @@ A system is only as good as its interface. I believe that true design is the inv
 
 ---
 
-📫 **Let's Connect:** [Portfolio](portyxb.vercel.app)
+📫 **Let's Connect:** <a href="https://portyxb.vercel.app">Portfolio</a>
 
 </div>
